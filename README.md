@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Team](#team)
+- [Team - Fault Finders](#team---fault-finders)
 - [Game Documentation - Code Realms](#game-documentation---code-realms)
 - [System Requirements](#system-requirements)
 - [Installation of Dependencies](#installation-of-dependencies)
