@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Team](#team)
+- [Game Documentation - Code Realms](#game-documentation---code-realms)
 - [System Requirements](#system-requirements)
 - [Installation of Dependencies](#installation-of-dependencies)
 - [Troubleshooting](#troubleshooting)
@@ -20,12 +21,39 @@
 ## Project Overview
 This project is a role-playing game (RPG) developed using RPG Maker XP. The game explores the theme of "Technical Debt" and features three phases with different types of challenges and a final boss encounter.
 
-## Team
+## Team - Fault Finders
 - **Pedro Ulisses Pereira Castro Maia** ([GitHub](https://github.com/pedroulissespu))  
 - **Samuel Cristhian Alcantara De Oliveira** ([GitHub](https://github.com/OliSammy))  
 - **Francisco Matheus Fernandes Freitas** ([GitHub](https://github.com/Fer-Matheus))  
 - **Leticia Carneiro De Araújo** ([GitHub](https://github.com/letcarj))  
 - **Larissa Kelly Dantas Batista** ([GitHub](https://github.com/larikellyl))
+
+## Game Documentation - Code Realms
+
+### 🔹 Introduction
+- **Game Name:** Code Realms
+- **Developer Team:** Fault Finders
+- **Description:** The digital world of CodeRealms is in crisis. The main city, Techland, is being consumed by creatures known as “Bugs,” “Code Smells,” and “Hotfix Minions.” These threats arise from the growing Technical Debt that has been neglected for too long. Now, the systems are on the brink of collapse. You are a young developer known as Alex Byte, recently hired by the legendary coding guild, the Refactorers. Your mission is simple: identify, combat, and eliminate the Technical Debt, restoring stability to CodeRealms.
+
+### 🔹 General Settings
+- **Resolution:** 640x480
+- **Custom Scripts:** No custom scripts were used
+- **Plugins Used:** No plugins were used
+
+### 🔹 Database
+- 📌 **Characters** : Alex Byte(Protagonist), Mark Turing(Tech lead), Mentor Linus(Protagonist's mentor), Big Love, Alan Gates, Overlord Legacy(Main antagonist), King(Senior Dev)
+- 📌 **Items** : No items were used, just the power of refactoring and testing
+- 📌 **Enemies** : Big Love (At the beginning of the game to teach the protagonist about trials), NullPointer Beasts, Memory Leak Wraith, Hydra and the Overlord Legacy
+- 📌 **Skills** : Automated testing and stress testing
+- 📌 **Classes** : Junior Dev, Mid Dev and Senior Dev
+- 📌 **Weapons & Armors** : Nothing
+
+### 🔹 Maps & Events
+- 📌 **Map List** : Main Base, Base after the conversation, Canyon Database, Forest of Obsolete Frameworks, Castle and Guild
+- 📌 **Important Events (NPCs, Cutscenes, Bosses)** : Conversation with Tech Lead (Mark Turing), conversation with Mentor Linus, conversation with Big Love, conversation with Alan Gates and the final conversation with Overlord Legacy and his battle
+
+### 🔹 Conclusion
+It is believed that it is possible, through this game, to have a brief introductory knowledge about what causes, what it is and how to solve technical debt, as technical debt is a very recurring problem in many projects, even renowned projects!
 
 ## System Requirements
 - Operating System: Windows XP or higher  
