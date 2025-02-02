@@ -195,7 +195,7 @@ Scripts/
 ```
 
 ## File Relationships
-- `Scripts.rxdata`: Contains the core game logic, event triggers, and custom gameplay functions.
+- `Scripts.rxdata and Script/ directory`: Contains the core game logic, event triggers, and custom gameplay functions.
 - `MapXXX.rxdata`: Individual map data files that define the layout and events.
 - `Actors.rxdata`, `Items.rxdata`, `Enemies.rxdata`: Define in-game entities.
 - `Graphics/Titles/Title.png.jpg`: Image file for the title screen.
