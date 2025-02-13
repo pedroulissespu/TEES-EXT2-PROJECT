@@ -26,7 +26,7 @@ This project is a role-playing game (RPG) developed using RPG Maker XP. The game
 - **Samuel Cristhian Alcantara De Oliveira** ([GitHub](https://github.com/OliSammy))  
 - **Francisco Matheus Fernandes Freitas** ([GitHub](https://github.com/Fer-Matheus))  
 - **Leticia Carneiro De Araújo** ([GitHub](https://github.com/letcarj))  
-- **Larissa Kelly Dantas Batista** ([GitHub](https://github.com/larikellyl))
+- **Larissa Kelly Dantas Batista** ([GitHub](https://github.com/larikelly))
 
 ## Game Documentation - Code Realms
 
@@ -225,7 +225,7 @@ If you would like to contribute to the game, please follow these steps:
 - Samuel Cristhian Alcantara De Oliveira ([GitHub](https://github.com/OliSammy))
 - Francisco Matheus Fernandes Freitas ([GitHub](https://github.com/Fer-Matheus))
 - Leticia Carneiro De Araújo ([GitHub](https://github.com/letcarj))
-- Larissa Kelly Dantas Batista ([GitHub](https://github.com/larikellyl))
+- Larissa Kelly Dantas Batista ([GitHub](https://github.com/larikelly))
 
 ## Acknowledgments
 - Special thanks to all the contributors and playtesters.
