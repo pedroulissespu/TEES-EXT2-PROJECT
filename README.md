@@ -17,6 +17,7 @@
 - [Acknowledgments](#acknowledgments)
 - [References](#references)
 - [License](#license)
+- [Special Thanks](#special-thanks)
 
 ## Project Overview
 This project is a role-playing game (RPG) developed using RPG Maker XP. The game explores the theme of "Technical Debt" and features three phases with different types of challenges and a final boss encounter.
