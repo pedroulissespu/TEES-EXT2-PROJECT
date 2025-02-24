@@ -237,3 +237,6 @@ If you would like to contribute to the game, please follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Special Thanks
+Many thanks to everyone who attended Game Day, tested, played and had fun with the game! The game was supposed to be something bigger, addressing technical debt in more detail. However, since the content on technical debt is quite extensive, we compressed the content to something small that is around a 15-20 minute gameplay, but that can go over what technical debt is, how it can impact and how to solve it by mixing it with some RPG aspects, creating through RPG Maker XP. Special thanks also to Professor Ismayle who organized this Game Day day, I hope he uses this project to continue! For other people to try to expand or improve the story, try to address other issues related to technical debt! And also, who knows, try to import everything that was done in RPG Maker XP, to more current versions of RPG Maker and make the game playable in the browser! See you next time, everyone! - Pedro Ulisses 02/24/2025
